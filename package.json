@@ -15,7 +15,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "socket.io-client": "^2.3.0",
     "styled-components": "^5.1.0",
     "typescript": "~3.7.2"
